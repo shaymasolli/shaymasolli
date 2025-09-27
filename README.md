@@ -1,18 +1,27 @@
-<h1>Hi, I'm Shayma! <br/><a href="https://github.com/shaymasolli">Business & Growth Marketing Professional</a> | <a href="https://www.linkedin.com/in/shaymasolli/">ESG & Digital Transformation </a></h1>
+<h1>Hi, I'm Shayma! <br/><a href="https://github.com/shaymasolli">Business & Growth Marketing Professional</a>, <a href="https://www.linkedin.com/in/shaymasolli/">ESG Advocate </a></h1>
+
 
 <h2> Projects:</h2>
 
-- <b>Lead Generation</b>
-  - [Lead Generation Campaign for a Saas Company](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
+- <b>Customer Acquisition & Conversion</b>
+  - [SaaS Referral Program & Customer Acquisition](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
+  - [Biotech Inbound Marketing & Pipeline Growth](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
+  - [Luxury Fashion Retargeting & Customer Acquisition](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
+
 
 - <b>E-commerce</b>
-  - [E-commerce Revenue Growth](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
+  - [B2B Manufacturing Website Relaunch & Organic Traffic Growth](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
+  - [DTC E-commerce Funnel Optimization & Revenue Growth](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
 
- - <b>PR and Communication </b>
-   - [PR Campaign for a designer brand](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
 
-- <b>Social Media </b>
-  - [Brand Awareness and Social Media Growth](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
+ - <b>Brand, PR & Campaigns</b>
+   - [Luxury Fashion Brand Communications & Client Strategy](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
+   - [Political Campaign Multichannel Outreach & Engagement](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
+
+
+- <b>Content Marketing & Social Media</b>
+  - [E-commerce App Brand Awareness, Storytelling & Community Engagement](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
+
 
 <h2>Tools I use:</h2>
 
@@ -22,13 +31,14 @@ GA4 (Google Analytics 4); Looker Studio; HubSpot; Google Ads; Meta Ads Manager; 
 Salesforce; ActiveCampaign; LinkedIn Ads; TikTok Ads; Ahrefs; Canva; ClickFunnels; Optimizely; Shopify; WordPress; Buffer; Hotjar; Tableau; Power BI
 
 
+
 <h2>Tools I use:</h2>
 
-- [GA4 (Google Analytics 4)](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Google Looker Studio](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Hotjar](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Google Analytics 4 GA4](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Google Looker Studio](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Ahrefs](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Semrush](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Hubspot](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
+[GA4 (Google Analytics 4)](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Looker Studio](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [HubSpot](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Google Ads](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Meta Ads Manager](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [SEMrush](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Figma](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Notion](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Webflow](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Zapier](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Mixpanel](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
 
-- <b>Social Media </b>
-  - [Sprout Social](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
-  - [Later](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
+<h4 style="font-weight: normal;"> Additional Experience:</h4>
+
+[Salesforce](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [ActiveCampaign](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [LinkedIn Ads](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [TikTok Ads](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Ahrefs](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [ClickFunnels](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Optimizely](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [WordPress](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Shopify](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Buffer](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Hotjar](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Tableau](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main); [Power BI](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
 
 <h2>Certifications:</h2>
 
