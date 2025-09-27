@@ -1,23 +1,18 @@
 <h1>Hi, I'm Shayma!<br/>Growth & Product Strategist | ESG Brand Advocate</h1>
 
+
 <h2> Projects:</h2>
 
 - <b>Customer Acquisition & Conversion</b>
   - [SaaS Referral Program & Customer Acquisition](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
   - [Biotech Inbound Marketing & Pipeline Growth](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
   - [Luxury Fashion Retargeting & Customer Acquisition](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
-
-
 - <b>E-commerce</b>
   - [B2B Manufacturing Website Relaunch & Organic Traffic Growth](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
   - [DTC E-commerce Funnel Optimization & Revenue Growth](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
-
-
  - <b>Brand, PR & Campaigns</b>
    - [Luxury Fashion Brand Communications & Client Strategy](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
    - [Political Campaign Multichannel Outreach & Engagement](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
-
-
 - <b>Content Marketing & Social Media</b>
   - [E-commerce App Brand Awareness, Storytelling & Community Engagement](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
 
