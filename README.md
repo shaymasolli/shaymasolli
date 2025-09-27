@@ -1,5 +1,4 @@
-<h1>Hi, I'm Shayma! <br/><a href="https://github.com/shaymasolli">Growth & Product Strategist</a> | <a href="https://www.linkedin.com/in/shaymasolli/">ESG-Focused Brand Advocate</a></h1>
-
+<h1>Hi, I'm Shayma!<br/>Growth & Product Strategist | ESG Brand Advocate</h1>
 
 <h2> Projects:</h2>
 
