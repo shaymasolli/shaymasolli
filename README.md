@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shayma! <br/><a href="https://github.com/shaymasolli">Business Strategist</a> | <a href="https://www.linkedin.com/in/shaymasolli/">Growth Marketing Professional</a> | <a href="https://www.youtube.com/c/joshmadakor">Product  & ESG Advocate</a></h1>
+<h1>Hi, I'm Shayma! <br/><a href="https://github.com/shaymasolli">Business & Growth Marketing Professional</a> | <a href="https://www.linkedin.com/in/shaymasolli/">ESG & Digital Transformation </a></h1>
 
 <h2> Projects:</h2>
 
