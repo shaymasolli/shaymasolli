@@ -3,7 +3,7 @@
 
 <h2> Projects:</h2>
 
-- **Customer Acquisition & Conversion**
+- <b>Customer Acquisition & Conversion</b>
   - [SaaS Referral Program & Customer Acquisition](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
   - [Biotech Inbound Marketing & Pipeline Growth](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
   - [Luxury Fashion Retargeting & Customer Acquisition](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
