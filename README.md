@@ -6,7 +6,7 @@
 - <b>Customer Acquisition & Conversion</b>
   - [SaaS Referral Program & Customer Acquisition](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
   - [Biotech Inbound Marketing & Pipeline Growth](https://github.com/shaymasolli/InboundMarketingPipeline-Growth/blob/main/README.md)
-  - [Luxury Fashion Retargeting & Customer Acquisition](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
+  - [Luxury Fashion Retargeting & Customer Acquisition](https://github.com/shaymasolli/Luxury-Fashion-Retargeting-Customer-Acquisition)
 - <b>E-commerce</b>
   - [B2B Manufacturing Website Relaunch & Organic Traffic Growth](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
   - [DTC E-commerce Funnel Optimization & Revenue Growth](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
