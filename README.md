@@ -3,7 +3,7 @@
 
 <h2> Projects:</h2>
 
-  - [SaaS Referral Program & Customer Acquisition](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
+  - [Fintech Lead Acquisition & Referral Program](https://github.com/shaymasolli/Lead-Generation-Campain/tree/main)
   - [Biotech Inbound Marketing & Pipeline Growth](https://github.com/shaymasolli/InboundMarketingPipeline-Growth/blob/main/README.md)
   - [Bespoke Fashion Lead Conversion & Client Reactivation](https://github.com/shaymasolli/Luxury-Fashion-Retargeting-Customer-Acquisition)
 
