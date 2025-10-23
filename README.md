@@ -10,6 +10,7 @@
 <h2>Tools I use:</h2>
 GA4 (Google Analytics 4) • Looker Studio • HubSpot • Google Ads • Meta Ads Manager • SEMrush • WordPress • ClickUp • Hotjar • Zapier • Klaviyo
 
+
 <h4 style="font-weight: normal;"> Additional Experience:</h4>
 Salesforce • Figma • LinkedIn Ads • TikTok Ads • Ahrefs • ClickFunnels • Optimizely • Shopify • WooCommerce • Adobe Suite • Buffer • Wix Studio • ConvertKit • Webflow • Power BI
 
