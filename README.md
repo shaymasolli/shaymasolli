@@ -8,12 +8,10 @@
   - [Bespoke Fashion Lead Conversion & Client Reactivation](https://github.com/shaymasolli/Luxury-Fashion-Retargeting-Customer-Acquisition)
 
 <h2>Tools I use:</h2>
-
-GA4 (Google Analytics 4); Looker Studio; HubSpot; Google Ads; Meta Ads Manager; SEMrush; Wordpress; ClickUp; Hotjar; Zapier; Klaviyo.
+GA4 (Google Analytics 4) • Looker Studio • HubSpot • Google Ads • Meta Ads Manager • SEMrush • WordPress • ClickUp • Hotjar • Zapier • Klaviyo
 
 <h4 style="font-weight: normal;"> Additional Experience:</h4>
-
-Salesforce; Figma; LinkedIn Ads; TikTok Ads; Ahrefs; ClickFunnels; Optimizely; Shopify; WooCommerce; Adobe Suite; Buffer; Hotjar; Wix Studio; Kit (ConvertKit); Webflow; Power BI.
+Salesforce • Figma • LinkedIn Ads • TikTok Ads • Ahrefs • ClickFunnels • Optimizely • Shopify • WooCommerce • Adobe Suite • Buffer • Wix Studio • ConvertKit • Webflow • Power BI
 
 <h2>Certifications:</h2>
 
